@@ -5,6 +5,7 @@ Practical AI workflows and agents I use and write about on X as [@elessarqq](htt
 | Workflow | What it does | Article |
 |---|---|---|
 | [trading-desk](trading-desk/) | 10 jobs Claude does around a trade: market rules, token contracts, unlock calendars, audits, a morning brief, a red team, a trade autopsy, a rule checker, position sizing and backtests | [I Want Claude to Do All the Dirty Work of Trading](https://x.com/elessarqq/status/2110353431927869607) |
+| [video-remake](video-remake/) | 5 steps to rebuild a viral video format with your own content: break the reference down, map it to your post, build one HTML page, check stills, render to MP4 and GIF | How to Remake Any Viral Video Format With Claude Code |
 
 New workflows land here with new articles.
 
@@ -12,7 +13,7 @@ New workflows land here with new articles.
 
 1. Open a folder and read its README.
 2. Do the one-time setup it describes.
-3. Copy a prompt into Claude, attach what it asks for, and read the verdict.
+3. Copy a prompt into Claude (or Claude Code, when the folder says so), attach what it asks for, and read the result.
 
 ## Two rules
 
