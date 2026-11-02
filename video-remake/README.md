@@ -2,6 +2,8 @@
 
 Take the structure of a video format that already works, pour your own content into it, and render it frame by frame from one HTML page. No After Effects, and nothing copied except the skeleton.
 
+Full walkthrough with receipts: [How to Remake Any Viral Video Format With Claude Code](https://x.com/elessarqq/status/2117300649469571076)
+
 This is what these steps produced for my trading article (an illustration of the workflow, not a screen recording):
 
 ![Trading desk video](../trading-desk/assets/desk-demo.gif)
