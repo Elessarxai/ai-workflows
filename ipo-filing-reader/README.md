@@ -2,6 +2,8 @@
 
 ![Prompt card](assets/prompt-card.png)
 
+From the X post **[you'll pay $70 to $78 for $ANT while amazon gets new anthropic shares at $2.09](https://x.com/elessarqq/status/2120494499831119942)**.
+
 One prompt that makes Claude read an IPO filing (S-1 or S-1/A) like a skeptical buyer and list every deal where an insider, partner or early investor gets a better price, more shares or more control than you at the IPO price. Each finding comes with the exact sentence and the page number, so you can check it yourself.
 
 ## Run it
